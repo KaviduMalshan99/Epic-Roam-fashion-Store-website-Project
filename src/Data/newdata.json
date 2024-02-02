@@ -1,0 +1,39 @@
+[
+   
+    {
+
+        "id":6,
+        "image":"/src/assets/blackbiglogo.webp",
+        "title":"BLACK - FLEX T-SHIRT (UNISEX)",
+        "reviews":"50",
+        "price":"LKR 1,850.00"
+    },
+    {
+
+        "id":7,
+        "image":"/src/assets/whitebiglogo.webp",
+        "title":"WHITE - FLEX T-SHIRT (UNISEX)",
+        "reviews":"40",
+        "price":"LKR 1,850.00"
+    },
+    {
+
+        "id":9,
+        "image":"/src/assets/blue01.webp",
+        "image1":"/src/assets/blue02.webp",
+        "image2":"/src/assets/blue03.webp",
+        "title":"AQUA OVERSIZED PLAIN T-SHIRT (UNISEX)",
+        "reviews":"20",
+        "price":"LKR 2,550.00"
+    },
+    {
+
+        "id":10,
+        "image":"/src/assets/vanilla01.webp",
+        "image1":"/src/assets/vanilla02.webp",
+        "image2":"/src/assets/vanilla03.webp",
+        "title":"AQUA OVERSIZED PLAIN T-SHIRT (UNISEX)",
+        "reviews":"10",
+        "price":"LKR 2,850.00"
+    }
+]

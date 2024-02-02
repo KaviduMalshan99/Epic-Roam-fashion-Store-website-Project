@@ -1,0 +1,90 @@
+ @import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;600&display=swap');
+
+
+.top{
+    background-color: #fff;
+    height: 40px;
+    font-size: 17px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bottom{
+    background-color: black;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    color: #fff;
+    padding: 0 30px 0 30px;
+
+}
+
+
+.sec1 ul {
+    display: flex;
+    list-style: none;
+    font-size: 18px;
+    padding-top: 30px;
+    font-family:'Fira+Sans',sans-serif ;
+  }
+  
+  .sec1 li {
+    margin-right: 20px;
+    cursor: pointer;
+    
+  }
+
+  .sec1 a {
+    color: #fff;
+    text-decoration: none;  
+  }
+  
+  .sec2 {
+    font-size: 60px;
+    font-weight: 00;
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+    font-family: 'American Signature';
+    src: url('/path/to/american-signature.woff') format('woff');
+    padding-right: 150px;
+
+  }
+
+  .sec2 a{
+    color: #fff;
+    text-decoration: none; 
+  }
+  
+  .sec3 {
+    display: flex;
+    align-items: center;
+  }
+  
+  .sec3 svg {
+    margin-right: 20px;
+    font-size: 26px;
+    cursor: pointer;
+    color: #fff;
+  }
+
+  .sec3 .icon2{
+    margin-top: 2px;
+  }
+
+
+
+  .search{
+
+    border: none;
+    border-radius: 18px;
+    height: 35px;
+    padding-left: 10px;
+    outline: none;
+    width: 250px;
+    font-family:'Fira+Sans',sans-serif ;
+    margin-right: 10px;
+  }
+
+  

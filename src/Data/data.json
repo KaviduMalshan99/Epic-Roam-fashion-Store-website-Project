@@ -1,0 +1,87 @@
+[
+
+    {
+
+        "id":1,
+        "image": "/src/assets/BlackPlain.webp",
+        "title":"BLACK - PLAIN COTTON T-SHIRT (UNISEX)",
+        "reviews":"50",
+        "price":"LKR 1,450.00"
+    },
+    {
+
+        "id":2,
+        "image":"/src/assets/Whitepain.webp",
+        "title":"WHITE - PLAIN COTTON T-SHIRT (UNISEX)",
+        "reviews":"70",
+        "price":"LKR 1,450.00"
+    },
+    {
+
+        "id":3,
+        "image":"/src/assets/GrayPlain.jpg",
+        "title":"GRAY - PLAIN COTTON T-SHIRT (UNISEX)",
+        "reviews":"60",
+        "price":"LKR 1,450.00"
+    },
+    {
+
+        "id":4,
+        "image":"/src/assets/blacksmalllogo.webp",
+        "title":"BRANDED BLACK PLAIN T-SHIRT (UNISEX)",
+        "reviews":"20",
+        "price":"LKR 1,850.00"
+    },
+    {
+
+        "id":5,
+        "image":"/src/assets/whitesmalllogo.webp",
+        "title":"BRANDED WHITE PLAIN T-SHIRT (UNISEX)",
+        "reviews":"30",
+        "price":"LKR 1,850.00"
+    },
+    {
+
+        "id":6,
+        "image":"/src/assets/blackbiglogo.webp",
+        "title":"BLACK - FLEX T-SHIRT (UNISEX)",
+        "reviews":"50",
+        "price":"LKR 1,850.00"
+    },
+    {
+
+        "id":7,
+        "image":"/src/assets/whitebiglogo.webp",
+        "title":"WHITE - FLEX T-SHIRT (UNISEX)",
+        "reviews":"40",
+        "price":"LKR 1,850.00"
+    },
+    {
+
+        "id":8,
+        "image":"/src/assets/red01.webp",
+        "image1":["/src/assets/red01.webp","/src/assets/red02.webp","/src/assets/red03.webp","/src/assets/red04.webp"],
+        "title":"AQUA OVERSIZED PLAIN T-SHIRT (UNISEX)",
+        "reviews":"30",
+        "price":"LKR 2,550.00"
+    },
+    {
+
+        "id":9,
+        "image":"/src/assets/blue01.webp",
+        "image1":["/src/assets/blue01.webp","/src/assets/blue02.webp","/src/assets/blue03.webp"],
+        "title":"AQUA OVERSIZED PLAIN T-SHIRT (UNISEX)",
+        "reviews":"20",
+        "price":"LKR 2,550.00"
+    },
+    {
+
+        "id":10,
+        "image":"/src/assets/vanilla01.webp",
+        "image1":["/src/assets/vanilla01.webp","/src/assets/vanilla02.webp","/src/assets/vanilla03.webp"],
+        "title":"AQUA OVERSIZED PLAIN T-SHIRT (UNISEX)",
+        "reviews":"10",
+        "price":"LKR 2,850.00"
+    }
+
+]

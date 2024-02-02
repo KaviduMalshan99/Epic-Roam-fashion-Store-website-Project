@@ -1,0 +1,201 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans:wght@300;400;600&display=swap');
+
+
+
+.footer{
+    background-color: #fff;
+    font-family:'Fira+Sans',sans-serif ;
+}
+
+.footertop{
+    background-color: #222121;
+    height: 50px;
+    font-size: 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+}
+
+.icons{
+    display: flex;
+    gap: 25px;
+    font-size: 28px;
+    margin-left: 25px;
+    cursor: pointer;
+}
+
+.footerbottom{
+    background-color: black;
+    height: 250px;
+    display: flex;
+    color: #fff;
+    padding: 20px 25px ;
+}
+
+.fbsec1{
+
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    font-family: 'American Signature';
+    src: url('/path/to/american-signature.woff') format('woff');
+    font-size: 80px;
+    padding-top: 20px;
+    cursor: pointer;
+}
+
+
+
+.fbsec1 p{
+    text-align: center;
+    font-family:'Fira+Sans',sans-serif ;
+    font-size: 16px;
+    line-height: 23px;
+    padding-top: 35px;
+    color: #a0a0a0;
+}
+
+
+.fbsec2{
+    width: 15%;
+    margin-left: 8%;
+    padding-top: 25px;
+    
+}
+
+
+
+.fbsec2 ul{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    padding-top: 15px;
+    line-height: 35px;
+    cursor: pointer;
+    color: #a0a0a0;
+}
+
+.fbsec2 a{
+    color: #a0a0a0;
+    text-decoration: none; 
+    position: relative;
+}
+
+.fbsec2 a::after{
+    content: "";
+    position: absolute;
+    background-color: #a0a0a0;
+    height: 2px;
+    width: 0;
+    left: 0;
+    bottom: -5px;
+    transition: 0.7s;
+}
+
+.fbsec2 a:hover::after{
+    width: 100%;
+}
+
+.fbsec3{
+    width: 15%;
+    padding-top: 25px;
+    margin-left: 7%;
+    
+}
+
+.fbsec3 ul{
+    display: flex;
+    flex-direction: column;
+    list-style: none;
+    padding-top: 15px;
+    line-height: 35px;
+    cursor: pointer;
+    color: #a0a0a0;
+}
+
+.fbsec3 a{
+    color: #a0a0a0;
+    text-decoration: none; 
+    position: relative;
+}
+
+.fbsec3 a::after{
+    content: "";
+    position: absolute;
+    background-color: #a0a0a0;
+    height: 2px;
+    width: 0;
+    left: 0;
+    bottom: -5px;
+    transition: 0.7s;
+}
+
+.fbsec3 a:hover::after{
+    width: 100%;
+}
+
+.fbsec4{
+    width: 30%;
+    padding-top: 25px;
+    margin-left: 8%;
+
+}
+
+.fbcIcons{
+    display: flex;
+    flex-direction: column;
+    line-height: 35px;
+    padding-left: 10px;
+    padding-top: 25px;
+    cursor: pointer;
+    color: #a0a0a0;
+}
+
+.fcbs{
+    display: flex;
+    gap: 15px;
+    font-size: 16px;
+    font-family:'Fira+Sans',sans-serif ;
+    align-items: center;
+}
+
+.input1{
+    position: relative;
+    margin-top: 20px;
+    height: 40px;
+    width: 250px;
+    border: none;
+    border-radius: 18px ;
+    padding-left: 15px;
+    outline: none;
+}
+
+.rightsubmit{
+    position: absolute;
+    margin-top: 30px;
+    left: 89%;
+    color: red;
+    font-size: 18px;
+}
+
+.footerdoublebootom{
+    height: 60px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-top: #fff 1px solid;
+    padding-top: 13px;
+    line-height: 20px;
+    font-size: 13px;
+    color: #a0a0a0;
+}
+
+.footerdoublebootom a{
+    text-decoration: none;
+    color: #a0a0a0;
+    cursor: pointer;
+    font-weight: bold;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
